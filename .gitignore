@@ -1,0 +1,27 @@
+# =========================
+# Lean 4
+# =========================
+.lake/
+build/
+
+# =========================
+# Archivos temporales de LaTeX
+# =========================
+*.aux
+*.bbl
+*.blg
+*.fls
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+*.bcf
+*.run.xml
+
+# =========================
+# Archivos de Sistema Operativo
+# =========================
+.DS_Store
+Thumbs.db
